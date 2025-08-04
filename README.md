@@ -1,3 +1,4 @@
+*A public repo ? why ? cuz I'm gonna share this with a friend*
 
 # Jeet Davindra Boutique - Premium Fashion Website for this dude
 
