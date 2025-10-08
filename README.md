@@ -144,7 +144,7 @@ Current social media links (editable in `/src/data/products.js`):
 ### Installation
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Reinhart-py/Boutique.git
 cd jeet-davindra-boutique
 ```
 
